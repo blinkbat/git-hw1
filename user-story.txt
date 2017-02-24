@@ -1,9 +1,11 @@
-Example user story:
-As an: Account Holder
-I want to: withdraw cash from at ATM
-So that: I can get money when the bank is closed
-
+As a: traveling customer
+I want to: rent a car
+So that: I can travel for business
 Example scenarios:
-- The account has sufficient funds
-- The account has insufficient funds
-- The card has been disabled
+- The car is rented with a deposit
+- The customer has a valid license
+- The customer is of age to rent a car
+- The customer has insufficient funds
+- The customer’s card is disabled
+- The customer’s license is invalid
+- The customer is too young to rent a car
