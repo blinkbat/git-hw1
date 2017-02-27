@@ -9,3 +9,6 @@ Example scenarios:
 - The customer’s card is disabled
 - The customer’s license is invalid
 - The customer is too young to rent a car
+
+# Great Story!
+# This is a change for testing purpose - Federico Strauch.
